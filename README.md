@@ -13,7 +13,7 @@ cd DumprX
 ./setup.sh
 ```
 
-> If thereâ€™s no `setup.sh`, make sure tools like `lpunpack`, `payload-dumper-go`, or `payload_dumper.py` are installed.
+> If there no `setup.sh`, make sure tools like `lpunpack`, `payload-dumper-go`, or `payload_dumper.py` are installed.
 
 ---
 
