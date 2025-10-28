@@ -8,8 +8,8 @@
 ## 1. Clone and Set Up dumperx
 
 ```bash
-git clone https://github.com/DumprX/dumperx.git
-cd dumperx
+git clone https://github.com/DumprX/DumprX
+cd DumprX
 ./setup.sh
 ```
 
