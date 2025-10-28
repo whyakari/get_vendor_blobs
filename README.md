@@ -1,7 +1,7 @@
 # How to Get Vendor Blobs (Bangkk / Fogos)
 
-> **Use the Bangkk zip** â†’ for the *device-specific vendor*  
-> **Use the Fogos zip** â†’ for the *common vendor*
+> **Use the Bangkk zip** for the *device-specific vendor*  
+> **Use the Fogos zip** for the *common vendor*
 
 ---
 
